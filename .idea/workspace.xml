@@ -4,18 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e1c838b-56e4-4cec-ab8f-b432e6ad05a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/juligame/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/juligame/Metodo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/juligame/Panel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/juligame/Vector2.java" afterDir="false" />
+    <list default="true" id="5e1c838b-56e4-4cec-ab8f-b432e6ad05a5" name="Changes" comment="init. Greedy funcionando.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/juligame/Panel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/juligame/Panel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,11 +89,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697660506790</updated>
-      <workItem from="1697660507850" duration="7985000" />
+      <workItem from="1697660507850" duration="10646000" />
     </task>
+    <task id="LOCAL-00001" summary="init. Greedy funcionando.">
+      <option name="closed" value="true" />
+      <created>1697668867029</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697668867029</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init. Greedy funcionando." />
+    <option name="LAST_COMMIT_MESSAGE" value="init. Greedy funcionando." />
   </component>
 </project>
